@@ -1,0 +1,9 @@
+{
+	"authors": [
+		"karita"
+	],
+	"copyright": "Copyright © 2023, karita",
+	"description": "A minimal D application.",
+	"license": "BSL-1.0",
+	"name": "dmacs"
+}
